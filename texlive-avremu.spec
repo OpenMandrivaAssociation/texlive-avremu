@@ -1,6 +1,6 @@
 Name:		texlive-avremu
 Version:	35373
-Release:	1
+Release:	2
 Summary:	An 8-Bit Microcontroller Simulator written in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/avremu
