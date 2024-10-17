@@ -3,7 +3,7 @@ Version:	71991
 Release:	1
 Summary:	An 8-Bit Microcontroller Simulator written in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/avremu
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/avremu
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/avremu.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/avremu.doc.r%{version}.tar.xz
